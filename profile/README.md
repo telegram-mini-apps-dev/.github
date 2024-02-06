@@ -46,4 +46,4 @@ Design component library in Figma, which will make it easier for designers to de
 If you have any questions or suggestions about the particular tool, you are welcome to create an Issue or Pull
 Request.
 
-If you have any other questions, you can join our [Telegram chat](https://t.me/+1mQMqTopB1FkNjIy).
+If you have any other questions, you can join our [Telegram chat](https://t.me/devs).
